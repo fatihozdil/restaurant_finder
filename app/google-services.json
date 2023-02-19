@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886845316351",
+    "project_id": "restayrantado",
+    "storage_bucket": "restayrantado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886845316351:android:7236cdb8b58f3b066540ca",
+        "android_client_info": {
+          "package_name": "com.example.kt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886845316351-fm2jvhbuke5v1q8pskhps0daa5eevidn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTqAvI0RokiulgTfS2r8BQO1jCWWL3lAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886845316351-fm2jvhbuke5v1q8pskhps0daa5eevidn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

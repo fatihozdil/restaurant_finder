@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Restaurantado</string>
+    <string name="login">LOGIN</string>
+    <string name="already_a_user">Already a user?</string>
+    <string name="restaurantado">Restaurantado</string>
+    <string name="best_way_to_find_your_restaurant">\'Best way to find your restaurant\'</string>
+    <string name="full_name">Full Name</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
